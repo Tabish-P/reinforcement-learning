@@ -2,7 +2,7 @@
 
 ## LunarLander-v3 (OpenAI Gym)
 
-![Trained Agent Landing](saved-models/output.gif)
+![Trained Agent Landing](LunarLander/saved-models/output.gif)
 
 | Metric | Value |
 |--------|-------|
