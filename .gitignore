@@ -134,7 +134,6 @@ dmypy.json
 models/
 *.bin
 *.pt
-*.pth
 *.h5
 .cache/
 huggingface_cache/
