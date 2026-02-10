@@ -1,0 +1,25 @@
+# Deep Reinforcement Learning - Requirements
+
+# Core ML Libraries
+torch>=2.0.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# Environment Libraries
+gymnasium>=0.27.0
+box2d-py>=2.3.5
+pygame>=2.1.0
+unityagents>=0.4.0
+
+# Utilities
+imageio>=2.10.0
+jupyter>=1.0.0
+ipython>=7.30.0
+
+# Optional: For GPU acceleration on NVIDIA
+# torch-cuda-toolkit (install with: pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118)
+
+# Optional: For development/visualization
+scipy>=1.7.0
+scikit-learn>=1.0.0
+tensorboard>=2.8.0

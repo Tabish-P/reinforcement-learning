@@ -1,3 +1,4 @@
+# DQN Agent Model for Unity Navigation Environment
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
