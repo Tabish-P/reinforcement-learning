@@ -6,7 +6,7 @@ This repository contains implementations of **Deep Q-Network (DQN)** agents solv
 
 ### 1. LunarLander-v3 (OpenAI Gymnasium)
 
-![Trained Agent Landing](saved-models/output.gif)
+![Trained Agent Landing](LunarLander/saved-models/output.gif)
 
 **Problem**: Train an agent to safely land a lunar module on the landing pad with minimal fuel consumption.
 
