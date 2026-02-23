@@ -12,6 +12,8 @@ This repository contains implementations of **Deep Q-Network (DQN)** agents solv
 
 ### 2. Navigation (Unity ML-Agents)
 
+![Yellow Bananas](Navigation/bananas.mov)
+
 **Problem**: Train an agent to navigate a 3D environment and collect yellow bananas while avoiding blue bananas.
 
 ## Hardware Acceleration
